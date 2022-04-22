@@ -30,3 +30,5 @@ Don't forget to create .env file for the project with keys :
 ```GET localhost:3001/products```		=> [{products}] ```admin```
 
 ```GET localhost:3001/products/id``` 	=> {products} ```admin```
+
+```GET localhost:3001/products/forcast/id``` 	=> [12 forcast numbers] ```admin```
